@@ -92,4 +92,6 @@ project-interrogation/
 
 ## License
 
-MIT。原始 `office-hours` 版权归 Garry Tan（MIT）；本改编版同样以 MIT 发布。
+MIT —— 全文见 [`LICENSE`](LICENSE)。
+
+本仓库改编自 [garrytan/gstack](https://github.com/garrytan/gstack) 的 `office-hours` v2.0.0，原作品 **Copyright (c) Garry Tan**，以 MIT 许可发布。按 MIT 的要求，原作品的版权声明与许可声明在此一并保留；原许可全文见上游仓库。
